@@ -1,0 +1,8 @@
+{
+  "name": "Jamspirate!",
+  "description": "Real-time AI music improvisation companion and generative synthesizer with on-device theory engine and cloud LLM lookahead batching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
